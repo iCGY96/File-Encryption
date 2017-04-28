@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/1/7 9:04:01。
+     1>项目“G:\ShaderModel4\ShaderModel4\ShaderModel4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D SHADERMODEL4_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\ShaderModel4\Debug\ShaderModel4.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\ShaderModel4\Debug\ShaderModel4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\ShaderModel4\Debug\ShaderModel4.lib" /MACHINE:X86 /DLL "Debug\源.obj"
+           正在创建库 G:\ShaderModel4\Debug\ShaderModel4.lib 和对象 G:\ShaderModel4\Debug\ShaderModel4.exp
+         ShaderModel4.vcxproj -> G:\ShaderModel4\Debug\ShaderModel4.dll
+     1>已完成生成项目“G:\ShaderModel4\ShaderModel4\ShaderModel4.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.31
